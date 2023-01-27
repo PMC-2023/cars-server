@@ -5,7 +5,6 @@
 
 from bs4 import BeautifulSoup
 import requests
-from csv import writer
 import json
 
 url = "https://carros.tucarro.com.co/"
