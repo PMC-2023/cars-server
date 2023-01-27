@@ -1,6 +1,34 @@
 {
     "cars": [
         {
+            "model": "Dodge Journey 2.4 Se/express Fl",
+            "location": "Usaquén - Bogotá D.C.",
+            "price": 68000000,
+            "year": "2017",
+            "km": 39100
+        },
+        {
+            "model": "Mercedes-benz Clase C 1.6 Avantgarde",
+            "location": "Suba - Bogotá D.C.",
+            "price": 109000000,
+            "year": "2018",
+            "km": 31500
+        },
+        {
+            "model": "Toyota Corolla 1.8 Se-g",
+            "location": "Usaquén - Bogotá D.C.",
+            "price": 170000000,
+            "year": "2023",
+            "km": 210
+        },
+        {
+            "model": "Toyota Fj Cruiser 4.0 V6",
+            "location": "Usaquén - Bogotá D.C.",
+            "price": 165000000,
+            "year": "2011",
+            "km": 131000
+        },
+        {
             "model": "Volkswagen Escarabajo Escarabajo 1955",
             "location": "Usaquén - Bogotá D.C.",
             "price": 45000000,
@@ -307,34 +335,6 @@
             "price": 36500000,
             "year": "2017",
             "km": 64927
-        },
-        {
-            "model": "Ford Ecosport 2.0 4x2 At",
-            "location": "Suba - Bogotá D.C.",
-            "price": 39900000,
-            "year": "2012",
-            "km": 80000
-        },
-        {
-            "model": "Renault Clio Autentique",
-            "location": "Cota - Cundinamarca",
-            "price": 23000000,
-            "year": "2009",
-            "km": 109000
-        },
-        {
-            "model": "Mercedes-benz Clase E 1.8 Cgi Blueefficiency",
-            "location": "Barrios Unidos - Bogotá D.C.",
-            "price": 70000000,
-            "year": "2010",
-            "km": 87575
-        },
-        {
-            "model": "Ford Escape Escape 2.0  Turbo St",
-            "location": "Usaquén - Bogotá D.C.",
-            "price": 118000000,
-            "year": "2019",
-            "km": 18000
         }
     ]
 }
