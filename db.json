@@ -1,340 +1,340 @@
 {
-    "cars":[
+    "cars": [
+        {
+            "model": "Volkswagen Escarabajo Escarabajo 1955",
+            "location": "Usaquén - Bogotá D.C.",
+            "price": 45000000,
+            "year": "1998",
+            "km": 1400
+        },
+        {
+            "model": "Subaru Forester 2.0 Hibrida Sin Pico Y Placa",
+            "location": "Usaquén - Bogotá D.C.",
+            "price": 177000000,
+            "year": "2021",
+            "km": 11600
+        },
+        {
+            "model": "Chevrolet Cruze 1.8 Ls",
+            "location": "Suba - Bogotá D.C.",
+            "price": 43900000,
+            "year": "2014",
+            "km": 104500
+        },
         {
             "model": "Nissan Kicks 1.6 Sense",
             "location": "Fontibón - Bogotá D.C.",
             "price": 70000000,
             "year": "2018",
-            "km": "61.000 Km"
+            "km": 61000
         },
         {
             "model": "Kia Sportage 2.0l Gasolina 4x2",
             "location": "Kennedy - Bogotá D.C.",
             "price": 94500000,
             "year": "2017",
-            "km": "28.000 Km"
+            "km": 28000
         },
         {
             "model": "Dodge Ram 3.6 1500 Slt",
             "location": "Suba - Bogotá D.C.",
             "price": 115000000,
             "year": "2015",
-            "km": "40.000 Km"
+            "km": 40000
         },
         {
             "model": "Renault Logan Itens",
             "location": "Kennedy - Bogotá D.C.",
             "price": 60000000,
             "year": "2020",
-            "km": "10.700 Km"
+            "km": 10700
         },
         {
             "model": "Ford Fiesta Sportback Titanium",
             "location": "Kennedy - Bogotá D.C.",
             "price": 51900000,
             "year": "2017",
-            "km": "60.445 Km"
+            "km": 60445
         },
         {
             "model": "Chevrolet Cruze 1.8 Lt",
             "location": "Suba - Bogotá D.C.",
             "price": 42000000,
             "year": "2013",
-            "km": "70.000 Km"
+            "km": 70000
         },
         {
             "model": "Ford Fiesta 1.6 Sportback Se",
             "location": "Teusaquillo - Bogotá D.C.",
             "price": 52000000,
             "year": "2017",
-            "km": "37.500 Km"
+            "km": 37500
         },
         {
             "model": "Renault Sandero Life",
             "location": "Bosa - Bogotá D.C.",
             "price": 46000000,
             "year": "2020",
-            "km": "29.000 Km"
+            "km": 29000
         },
         {
             "model": "Mercedes-benz Clase A 45s 2.0t",
             "location": "Usaquén - Bogotá D.C.",
             "price": 270000000,
             "year": "2022",
-            "km": "38.800 Km"
+            "km": 38800
         },
         {
             "model": "Toyota Corolla 1.8 Se-g",
             "location": "Fontibón - Bogotá D.C.",
             "price": 120000000,
             "year": "2021",
-            "km": "53.000 Km"
+            "km": 53000
         },
         {
             "model": "Volkswagen Tiguan 2.0 Tsi",
             "location": "Suba - Bogotá D.C.",
             "price": 110000000,
             "year": "2019",
-            "km": "46.975 Km"
+            "km": 46975
         },
         {
             "model": "Audi Q3 1.4 Tfsi Ambition",
             "location": "Teusaquillo - Bogotá D.C.",
             "price": 93000000,
             "year": "2017",
-            "km": "63.300 Km"
+            "km": 63300
         },
         {
             "model": "Chery Tiggo T-11",
             "location": "Usaquén - Bogotá D.C.",
             "price": 31900000,
             "year": "2009",
-            "km": "126.000 Km"
+            "km": 126000
         },
         {
             "model": "Dodge Journey 2.4 Sxt Fl",
             "location": "Suba - Bogotá D.C.",
             "price": 64000000,
             "year": "2016",
-            "km": "79.000 Km"
+            "km": 79000
         },
         {
             "model": "Subaru Forester 2.5 Cvt Limited",
             "location": "Barrios Unidos - Bogotá D.C.",
             "price": 127000000,
             "year": "2019",
-            "km": "69.000 Km"
+            "km": 69000
         },
         {
             "model": "Honda Cr-v 2.4 Ex",
             "location": "Usaquén - Bogotá D.C.",
             "price": 54000000,
             "year": "2008",
-            "km": "135.500 Km"
+            "km": 135500
         },
         {
             "model": "Mitsubishi Montero 2.5 215 Hp",
             "location": "Cota - Cundinamarca",
             "price": 175000000,
             "year": "2018",
-            "km": "67.000 Km"
+            "km": 67000
         },
         {
             "model": "Volkswagen Jetta 2.0 Trendline",
             "location": "Chapinero - Bogotá D.C.",
             "price": 64000000,
             "year": "2018",
-            "km": "45.000 Km"
+            "km": 45000
         },
         {
             "model": "Volkswagen Gol 1.6 Trendline",
             "location": "Usaquén - Bogotá D.C.",
             "price": 47499000,
             "year": "2020",
-            "km": "24.500 Km"
+            "km": 24500
         },
         {
             "model": "Mercedes-benz Clase C Edition",
             "location": "Suba - Bogotá D.C.",
             "price": 72000000,
             "year": "2014",
-            "km": "61.000 Km"
+            "km": 61000
         },
         {
             "model": "Toyota Prado 2.7 Sumo",
             "location": "Chía - Cundinamarca",
             "price": 75000000,
             "year": "2008",
-            "km": "212.000 Km"
+            "km": 212000
         },
         {
             "model": "Mazda 3 2.0 Touring",
             "location": "Suba - Bogotá D.C.",
             "price": 101900000,
             "year": "2022",
-            "km": "15.000 Km"
+            "km": 15000
         },
         {
             "model": "Hyundai Tucson 2.0 Gl 4x4",
             "location": "Kennedy - Bogotá D.C.",
             "price": 42800000,
             "year": "2010",
-            "km": "109.343 Km"
+            "km": 109343
         },
         {
             "model": "Toyota Hilux 2.5 4x4  Euro 4",
             "location": "Fontibón - Bogotá D.C.",
             "price": 139000000,
             "year": "2015",
-            "km": "63.228 Km"
+            "km": 63228
         },
         {
             "model": "Chevrolet Sail 1.4 Ltz 4 P",
             "location": "Suba - Bogotá D.C.",
             "price": 36500000,
             "year": "2013",
-            "km": "52.444 Km"
+            "km": 52444
         },
         {
             "model": "Ford Fusion Titanium",
             "location": "Antonio Nariño - Bogotá D.C.",
             "price": 57500000,
             "year": "2015",
-            "km": "77.453 Km"
+            "km": 77453
         },
         {
             "model": "Chevrolet Aveo Emotion 1.6 Gt",
             "location": "Suba - Bogotá D.C.",
             "price": 28300000,
             "year": "2010",
-            "km": "101.787 Km"
+            "km": 101787
         },
         {
             "model": "Toyota Fortuner Sr5",
             "location": "Martires - Bogotá D.C.",
             "price": 160000000,
             "year": "2015",
-            "km": "71.377 Km"
+            "km": 71377
         },
         {
             "model": "Toyota Fortuner 2.7 Sr5 At",
             "location": "Usaquén - Bogotá D.C.",
             "price": 97000000,
             "year": "2012",
-            "km": "100.000 Km"
+            "km": 100000
         },
         {
             "model": "Nissan March 1.6 Sense",
             "location": "Engativa - Bogotá D.C.",
             "price": 70000000,
             "year": "2022",
-            "km": "1.020 Km"
+            "km": 1020
         },
         {
             "model": "Mazda Cx-5 2.5 Grand Touring Camioneta",
             "location": "Engativa - Bogotá D.C.",
             "price": 138000000,
             "year": "2022",
-            "km": "12.800 Km"
+            "km": 12800
         },
         {
             "model": "Kia Rio 1.6 4 P",
             "location": "Usaquén - Bogotá D.C.",
             "price": 27500000,
             "year": "2009",
-            "km": "148.500 Km"
+            "km": 148500
         },
         {
             "model": "Renault Logan 1.6 Dynamique Fii",
             "location": "Usaquén - Bogotá D.C.",
             "price": 33900000,
             "year": "2013",
-            "km": "999.000 Km"
+            "km": 999000
         },
         {
             "model": "Ford Fiesta 1.6 Hatchback Titanium",
             "location": "Usaquén - Bogotá D.C.",
             "price": 53000000,
             "year": "2016",
-            "km": "32.000 Km"
+            "km": 32000
         },
         {
             "model": "Ford Escape 2.0 Se 240 Hp 4x2",
             "location": "Usaquén - Bogotá D.C.",
             "price": 80900000,
             "year": "2017",
-            "km": "40.000 Km"
+            "km": 40000
         },
         {
             "model": "Audi Q5 2.0 Tfsi Quattro Ambition",
             "location": "Suba - Bogotá D.C.",
             "price": 160000000,
             "year": "2019",
-            "km": "35.130 Km"
+            "km": 35130
         },
         {
             "model": "Jeep Grand Cherokee 3.6 Laredo",
             "location": "Usaquén - Bogotá D.C.",
             "price": 120000000,
             "year": "2016",
-            "km": "52.000 Km"
+            "km": 52000
         },
         {
             "model": "Mazda 2 1.5 15ha1c",
             "location": "Suba - Bogotá D.C.",
             "price": 40000000,
             "year": "2014",
-            "km": "91.800 Km"
+            "km": 91800
         },
         {
             "model": "Mitsubishi Nativa 3.0 Gls Fl",
             "location": "Engativa - Bogotá D.C.",
             "price": 45000000,
             "year": "2007",
-            "km": "180.900 Km"
+            "km": 180900
         },
         {
             "model": "Toyota Prado 4.0 Vx",
             "location": "Chía - Cundinamarca",
             "price": 105000000,
             "year": "2009",
-            "km": "251.300 Km"
+            "km": 251300
         },
         {
             "model": "Chevrolet Sail 1.4 Ltz",
             "location": "Kennedy - Bogotá D.C.",
             "price": 36500000,
             "year": "2017",
-            "km": "64.927 Km"
+            "km": 64927
         },
         {
             "model": "Ford Ecosport 2.0 4x2 At",
             "location": "Suba - Bogotá D.C.",
             "price": 39900000,
             "year": "2012",
-            "km": "80.000 Km"
+            "km": 80000
         },
         {
             "model": "Renault Clio Autentique",
             "location": "Cota - Cundinamarca",
             "price": 23000000,
             "year": "2009",
-            "km": "109.000 Km"
+            "km": 109000
         },
         {
             "model": "Mercedes-benz Clase E 1.8 Cgi Blueefficiency",
             "location": "Barrios Unidos - Bogotá D.C.",
             "price": 70000000,
             "year": "2010",
-            "km": "87.575 Km"
+            "km": 87575
         },
         {
             "model": "Ford Escape Escape 2.0  Turbo St",
             "location": "Usaquén - Bogotá D.C.",
             "price": 118000000,
             "year": "2019",
-            "km": "18.000 Km"
-        },
-        {
-            "model": "Mercedes-benz Amg Cla 45 A Matic  2.0 Amg Cla 45 A Matic  2.0",
-            "location": "Usaquén - Bogotá D.C.",
-            "price": 175000000,
-            "year": "2019",
-            "km": "21.500 Km"
-        },
-        {
-            "model": "Toyota Tercel 1.3l 2 P",
-            "location": "Usaquén - Bogotá D.C.",
-            "price": 12800000,
-            "year": "1994",
-            "km": "355.000 Km"
-        },
-        {
-            "model": "Volkswagen Golf 1.4 Tsi Sportline",
-            "location": "Teusaquillo - Bogotá D.C.",
-            "price": 67000000,
-            "year": "2017",
-            "km": "80.300 Km"
+            "km": 18000
         }
     ]
 }
